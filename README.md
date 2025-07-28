@@ -10,6 +10,6 @@ This repository contains my completed tasks from the **Tata Data Analytics Inter
 - Predictive Modeling
 - Strategy & Reporting
 - Word documentation of analytics work
-- 
+
 This work demonstrates my understanding of data science concepts and real-world data analytics tasks.
 
