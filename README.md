@@ -12,4 +12,8 @@ This repository contains my completed tasks from the **Tata Data Analytics Inter
 - Word documentation of analytics work
 
 This work demonstrates my understanding of data science concepts and real-world data analytics tasks.
+##  Acknowledgements  
+- I would like to thank Tata Group and Forage for providing this virtual internship opportunity.  
+- This project is a simulation and not an official internship or employment with Tata.  
+
 
